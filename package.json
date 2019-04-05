@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "canvasjs": "^1.8.1",
     "react": "^16.8.5",
+    "react-canvas-js": "^1.0.1",
     "react-dom": "^16.8.5",
-    "react-scripts": "2.1.8"
+    "react-reflux": "^1.2.2",
+    "react-scripts": "2.1.8",
+    "reflux-connect": "^0.2.0",
+    "reflux-state-mixin": "^0.8.0"
   },
   "scripts": {
     "start": "react-scripts start",
